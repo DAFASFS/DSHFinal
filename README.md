@@ -22,4 +22,5 @@
 - Se debe crear la base de datos con tabla llamada "temperaturas", que guarde ID, temperatura y fecha.
 - Se deben iniciar los script de python app.py y enviar_temperatura_leds.py
 - Se deben iniciar los 3 esp con los codigos, ESP_HOTSPOT.ino, Leds_db_python.ino y Sensor_Temperatura.ino
+
 Luego de seguir estas indicaciones el sistema se encuentra operando, ya es posible conectarce a la interfaz web mediante la ip del equipo en el que esta andando el script app.py con puerto 5000
