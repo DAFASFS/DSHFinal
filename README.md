@@ -12,4 +12,4 @@
 
   ESP-32 
       
-<img width="720" height="1600" alt="Esp_Hotspot" src="https://github.com/user-attachments/assets/7e1f655f-ff45-4feb-a10b-4d83c005c64f" />
+<img width="360" height="800" alt="Esp_Hotspot" src="https://github.com/user-attachments/assets/7e1f655f-ff45-4feb-a10b-4d83c005c64f" />
