@@ -10,6 +10,4 @@
   Como Segundo objetivo se busca tener una interfaz Web utilizando Flask python, la cual nos permitira ver de forma grafica la temperatura actual del sistema.
 
 ## Diagrama de flujo
-<img width="457" height="279" alt="Diagrama de flujo" src="https://github.com/user-attachments/assets/0f61810d-d1ae-4773-b352-df84715d6bc9" />
-
-
+<img width="453" height="275" alt="Diagrama de flujo" src="https://github.com/user-attachments/assets/2cb8ac9f-a211-41b9-b6ac-236df35123dd" />
