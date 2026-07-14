@@ -1,5 +1,6 @@
 # DSHFinal
 ### Evaluación 3 Asignatura desarrollo de software para hardware
+#### Desarrollado por: Daniel Constanso, Tomás Tapia y Jensen Sepulveda
 
 ## Objetivos:
   Como principal objetivo de este proyecto se realizo un sistema IoT mediante Esp-32 utilizado como Hotspot, el cual pueda conectarse con multiples Esp-32, estos realizan sus tareas correspondientes, las cuales son:
